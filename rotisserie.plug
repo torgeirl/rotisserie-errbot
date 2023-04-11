@@ -1,0 +1,9 @@
+[Core]
+Name = Rotisserie
+Module = rotisserie
+
+[Python]
+Version = 3
+
+[Documentation]
+Description = Plugin for Rotisserie drafts.
