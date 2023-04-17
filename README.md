@@ -7,6 +7,8 @@ An [Errbot](https://github.com/errbotio/errbot) plugin for Rotisserie drafts.
 Rotisserie draft is a limited *Magic: the Gathering* format [created by Mark Rosewater for the Magic Invitational held in Cape Town, South Africa](https://magic.wizards.com/en/news/making-magic/six-continents-six-stories-2015-05-25) on October 5-7, 2001.
 
 ## Requirements
+Beside `errbot` itself, the plugin requires some [Google Sheets API](https://developers.google.com/sheets/api/quickstart/python) packages and a [Google Cloud project](https://developers.google.com/workspace/guides/create-project) to support the spreadsheet it generates.
+
 # TODO
 
 ## Installation
